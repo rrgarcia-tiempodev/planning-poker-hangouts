@@ -10,7 +10,7 @@
   <script type="text/javascript">google.load("jquery", "1.3.2");</script>
   <script type="text/javascript"
     src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
-  <script type="text/javascript" src="http://max.dev.fix-site.com/poker/planningpoker.js"></script>
+  <script type="text/javascript" src="https://raw.github.com/maxtsepkov/planning-poker-hangouts/master/planningpoker.js"></script>
     <style type="text/css">
     <!--
     .card {
